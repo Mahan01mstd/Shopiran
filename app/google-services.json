@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746918004798",
+    "project_id": "shop-iran",
+    "storage_bucket": "shop-iran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746918004798:android:8088c9c38779b59fab696f",
+        "android_client_info": {
+          "package_name": "com.example.shop_iran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNzePfdXxBysesASNRo2KkgAha_3B5FxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
